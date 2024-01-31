@@ -8,7 +8,7 @@ from sklearn.model_selection import cross_val_score
 balanced_train = pd.read_csv('reduced_balanced_train.csv')
 test_data = pd.read_csv('reduced_test_data.csv')
 
-query_columns = pd.read_csv('reduced_buttons.csv')
+query_columns = pd.read_csv('buttons.csv')
 
 st.image('sanku_logo.png', width=200)
 
