@@ -1,0 +1,501 @@
+Unnamed: 0,SN,DATE ADDED,REGION,CATEGORY
+0,15020013,04/12/2023,Morogoro,Nontechnical
+1,15020016,04/12/2023,Manyara,Nontechnical
+2,15020028,04/12/2023,Dodoma,Nontechnical
+3,15020030,04/12/2023,Dodoma,Nontechnical
+4,15020035,04/12/2023,Dodoma,Nontechnical
+5,17010091,04/12/2023,Dar es Salaam,
+6,17020139,04/12/2023,Iringa,
+7,17020141,04/12/2023,Iringa,Nontechnical
+8,17020142,04/12/2023,Morogoro,
+9,17020148,04/12/2023,Iringa,Nontechnical
+10,17020151,04/12/2023,Iringa,
+11,18040173,04/12/2023,Dodoma,
+12,18040174,04/12/2023,Songwe,
+13,18040178,04/12/2023,Dar es Salaam,Nontechnical
+14,18040181,04/12/2023,Dar es Salaam,Nontechnical
+15,18040190,04/12/2023,Njombe,
+16,18040192,04/12/2023,Dar es Salaam,
+17,18040195,04/12/2023,Dar es Salaam,Nontechnical
+18,18040197,04/12/2023,Songwe,
+19,18040203,04/12/2023,Songwe,Nontechnical
+20,18040206,04/12/2023,Mbeya,
+21,18040210,04/12/2023,Dar es Salaam,Nontechnical
+22,18040214,04/12/2023,Songwe,Nontechnical
+23,18040215,04/12/2023,Mbeya,
+24,18040219,04/12/2023,Dar es Salaam,Technical
+25,18040221,04/12/2023,Dar es Salaam,Nontechnical
+26,18040226,04/12/2023,Mbeya,
+27,18040232,04/12/2023,Dodoma,Nontechnical
+28,18040233,04/12/2023,Dar es Salaam,Nontechnical
+29,18040234,04/12/2023,Morogoro,Nontechnical
+30,18040240,04/12/2023,Dar es Salaam,Nontechnical
+31,18040245,04/12/2023,Ruvuma,
+32,18040251,04/12/2023,Njombe,
+33,18040254,04/12/2023,Iringa,
+34,18040257,04/12/2023,Songwe,Nontechnical
+35,18040273,04/12/2023,Songwe,Nontechnical
+36,18040274,04/12/2023,Morogoro,Nontechnical
+37,18040277,04/12/2023,Dodoma,Nontechnical
+38,18040281,04/12/2023,Morogoro,Nontechnical
+39,18040291,04/12/2023,Morogoro,Nontechnical
+40,18040293,04/12/2023,Morogoro,Nontechnical
+41,18040296,04/12/2023,Njombe,Nontechnical
+42,18040298,04/12/2023,Morogoro,Nontechnical
+43,18040301,04/12/2023,Dar es Salaam,Nontechnical
+44,18040304,04/12/2023,Dar es Salaam,Technical
+45,19060307,04/12/2023,Kilimanjaro,Nontechnical
+46,19060315,04/12/2023,Dar es Salaam,Nontechnical
+47,19060317,04/12/2023,Dar es Salaam,Nontechnical
+48,19060322,04/12/2023,Dar es Salaam,Nontechnical
+49,19060324,04/12/2023,Dar es Salaam,
+50,19060326,04/12/2023,Dar es Salaam,Nontechnical
+51,19060327,04/12/2023,Mtwara,Nontechnical
+52,19060328,04/12/2023,Dar es Salaam,Nontechnical
+53,19060334,04/12/2023,Morogoro,Nontechnical
+54,19060345,04/12/2023,Mbeya,Nontechnical
+55,19060347,04/12/2023,Ruvuma,Nontechnical
+56,19060349,04/12/2023,Iringa,Nontechnical
+57,19060356,04/12/2023,Dar es Salaam,Technical
+58,19060358,04/12/2023,Iringa,Nontechnical
+59,19060364,04/12/2023,Manyara,Nontechnical
+60,19060382,04/12/2023,Mbeya,Nontechnical
+61,19060390,04/12/2023,Dar es Salaam,Nontechnical
+62,19060392,04/12/2023,Mwanza,Technical
+63,19060409,04/12/2023,Pwani,Nontechnical
+64,19060413,04/12/2023,Kagera,
+65,19060415,04/12/2023,Dar es Salaam,Nontechnical
+66,19060416,04/12/2023,Dodoma,Nontechnical
+67,19060419,04/12/2023,Dodoma,Nontechnical
+68,19060439,04/12/2023,Dar es Salaam,Nontechnical
+69,19060447,04/12/2023,Rukwa,Nontechnical
+70,19060450,04/12/2023,Kagera,
+71,19060491,04/12/2023,Dar es Salaam,Nontechnical
+72,19060496,04/12/2023,Shinyanga,Nontechnical
+73,19060499,04/12/2023,Morogoro,Nontechnical
+74,19060509,04/12/2023,Tanga,Nontechnical
+75,19060535,04/12/2023,Mbeya,Nontechnical
+76,19060551,04/12/2023,Mwanza,Nontechnical
+77,19060555,04/12/2023,Tanga,Technical
+78,19060557,04/12/2023,Mara,Technical
+79,19060563,04/12/2023,Ruvuma,Nontechnical
+80,19060571,04/12/2023,Kagera,Nontechnical
+81,19060572,04/12/2023,Mwanza,Nontechnical
+82,21050576,04/12/2023,Morogoro,Nontechnical
+83,21050581,04/12/2023,Mwanza,
+84,21050582,04/12/2023,Morogoro,Nontechnical
+85,21050589,04/12/2023,Dar es Salaam,Nontechnical
+86,21050591,04/12/2023,Dar es Salaam,Nontechnical
+87,21050599,04/12/2023,Dar es Salaam,Nontechnical
+88,21050610,04/12/2023,Mbeya,Nontechnical
+89,21050615,04/12/2023,Kagera,Nontechnical
+90,21050625,04/12/2023,Kagera,Nontechnical
+91,21050645,04/12/2023,Iringa,Nontechnical
+92,21050651,04/12/2023,Ruvuma,Nontechnical
+93,21050653,04/12/2023,Mtwara,Nontechnical
+94,21050654,04/12/2023,Kagera,Nontechnical
+95,21050665,04/12/2023,Rukwa,Nontechnical
+96,21050675,04/12/2023,Dar es Salaam,Technical
+97,21050676,04/12/2023,Dar es Salaam,Nontechnical
+98,21050678,04/12/2023,Dar es Salaam,Nontechnical
+99,21050682,04/12/2023,Dar es Salaam,Nontechnical
+100,21050684,04/12/2023,Dar es Salaam,Nontechnical
+101,21050687,04/12/2023,Dar es Salaam,Nontechnical
+102,21050690,04/12/2023,Songwe,Nontechnical
+103,21050692,04/12/2023,Morogoro,
+104,21050697,04/12/2023,Morogoro,
+105,21050703,04/12/2023,Songwe,
+106,21050711,04/12/2023,Shinyanga,
+107,21050716,04/12/2023,Morogoro,
+108,21050719,04/12/2023,Dar es Salaam,
+109,21050722,04/12/2023,Kagera,
+110,21050730,04/12/2023,Ruvuma,
+111,21050747,04/12/2023,Lindi,
+112,21050749,04/12/2023,Songwe,
+113,21050751,04/12/2023,Simiyu,
+114,21050755,04/12/2023,Ruvuma,
+115,21050756,04/12/2023,Kigoma,Nontechnical
+116,21050757,04/12/2023,Dar es Salaam,Technical
+117,21050776,04/12/2023,Dar es Salaam,Technical
+118,21050783,04/12/2023,Pwani,Nontechnical
+119,21050784,04/12/2023,Ruvuma,Nontechnical
+120,21050787,04/12/2023,Singida,Technical
+121,21050792,04/12/2023,Songwe,Nontechnical
+122,21050804,04/12/2023,Songwe,Nontechnical
+123,21050805,04/12/2023,Ruvuma,Nontechnical
+124,21050808,04/12/2023,Dar es Salaam,Nontechnical
+125,21050811,04/12/2023,Ruvuma,Technical
+126,21050812,04/12/2023,Songwe,Nontechnical
+127,21050813,04/12/2023,Morogoro,Nontechnical
+128,21050816,04/12/2023,Ruvuma,Nontechnical
+129,21050817,04/12/2023,Dar es Salaam,Nontechnical
+130,21050823,04/12/2023,Mbeya,Nontechnical
+131,21050825,04/12/2023,Ruvuma,Nontechnical
+132,21050830,04/12/2023,Ruvuma,Nontechnical
+133,21050831,04/12/2023,Mara,Nontechnical
+134,21050833,04/12/2023,Dar es Salaam,Nontechnical
+135,21050835,04/12/2023,Pwani,Nontechnical
+136,21050851,04/12/2023,Dodoma,Nontechnical
+137,21050853,04/12/2023,Njombe,Technical
+138,21050858,04/12/2023,Ruvuma,Nontechnical
+139,21110860,04/12/2023,Dar es Salaam,Nontechnical
+140,21110864,04/12/2023,Kagera,
+141,21110874,04/12/2023,Mwanza,Nontechnical
+142,21110882,04/12/2023,Dar es Salaam,Technical
+143,21110894,04/12/2023,Tanga,Nontechnical
+144,21110905,04/12/2023,Dar es Salaam,Technical
+145,21110909,04/12/2023,Shinyanga,Nontechnical
+146,21110916,04/12/2023,Simiyu,Nontechnical
+147,21110921,04/12/2023,Mwanza,Nontechnical
+148,21110927,04/12/2023,Shinyanga,Nontechnical
+149,21110930,04/12/2023,Arusha,Nontechnical
+150,21110940,04/12/2023,Songwe,Nontechnical
+151,21110941,04/12/2023,Dar es Salaam,Nontechnical
+152,21110948,04/12/2023,Pwani,Nontechnical
+153,21110953,04/12/2023,Dar es Salaam,Nontechnical
+154,21110958,04/12/2023,Shinyanga,Nontechnical
+155,21110961,04/12/2023,Dodoma,Nontechnical
+156,21110963,04/12/2023,Dar es Salaam,Nontechnical
+157,21110967,04/12/2023,Kagera,Nontechnical
+158,21110970,04/12/2023,Tanga,Nontechnical
+159,21110977,04/12/2023,Songwe,Nontechnical
+160,21110978,04/12/2023,Dar es Salaam,Nontechnical
+161,21110989,04/12/2023,Dar es Salaam,Nontechnical
+162,21110993,04/12/2023,Morogoro,Nontechnical
+163,21110999,04/12/2023,Nairobi,Nontechnical
+164,21111003,04/12/2023,Dar es Salaam,Nontechnical
+165,21111004,04/12/2023,Dar es Salaam,Nontechnical
+166,21111016,04/12/2023,Dar es Salaam,Nontechnical
+167,21111053,04/12/2023,Songwe,Nontechnical
+168,21111059,04/12/2023,Morogoro,Nontechnical
+169,18040174,17/07/2023,Songwe,Nontechnical
+170,18040177,17/07/2023,Morogoro,Nontechnical
+171,18040178,17/07/2023,Dar es Salaam,Nontechnical
+172,18040179,17/07/2023,Songwe,Technical
+173,18040181,17/07/2023,Dar es Salaam,Nontechnical
+174,18040190,17/07/2023,Njombe,Nontechnical
+175,18040192,17/07/2023,Dar es Salaam,Nontechnical
+176,18040193,17/07/2023,Mbeya,Technical
+177,18040195,17/07/2023,Dar es Salaam,Nontechnical
+178,18040197,17/07/2023,Songwe,Nontechnical
+179,18040201,17/07/2023,Mbeya,Nontechnical
+180,18040206,17/07/2023,Mbeya,
+181,18040210,17/07/2023,Dar es Salaam,Nontechnical
+182,18040213,17/07/2023,Dar es Salaam,Technical
+183,18040214,17/07/2023,Songwe,Nontechnical
+184,18040220,17/07/2023,Songwe,
+185,18040226,17/07/2023,Mbeya,
+186,18040229,17/07/2023,Songwe,
+187,18040233,17/07/2023,Dar es Salaam,Nontechnical
+188,18040240,17/07/2023,Dar es Salaam,Nontechnical
+189,18040248,17/07/2023,Dodoma,Nontechnical
+190,18040254,17/07/2023,Iringa,
+191,18040257,17/07/2023,Songwe,Nontechnical
+192,18040274,17/07/2023,Morogoro,Nontechnical
+193,18040275,17/07/2023,Dodoma,Nontechnical
+194,18040281,17/07/2023,Morogoro,Nontechnical
+195,18040291,17/07/2023,Morogoro,Nontechnical
+196,18040295,17/07/2023,Morogoro,Nontechnical
+197,18040298,17/07/2023,Morogoro,Nontechnical
+198,18040301,17/07/2023,Dar es Salaam,Nontechnical
+199,19060306,17/07/2023,Shinyanga,Technical
+200,19060307,17/07/2023,Kilimanjaro,Technical
+201,19060309,17/07/2023,Shinyanga,Nontechnical
+202,19060313,17/07/2023,Katavi,Nontechnical
+203,19060320,17/07/2023,Pwani,Technical
+204,19060327,17/07/2023,Mtwara,Nontechnical
+205,19060334,17/07/2023,Morogoro,Nontechnical
+206,19060338,17/07/2023,Shinyanga,Nontechnical
+207,19060342,17/07/2023,Dar es Salaam,Technical
+208,19060343,17/07/2023,Arusha,Nontechnical
+209,19060347,17/07/2023,Ruvuma,Nontechnical
+210,19060349,17/07/2023,Iringa,Nontechnical
+211,19060356,17/07/2023,Dar es Salaam,Nontechnical
+212,19060357,17/07/2023,Lindi,Nontechnical
+213,19060358,17/07/2023,Iringa,Nontechnical
+214,19060370,17/07/2023,Mwanza,Nontechnical
+215,19060373,17/07/2023,Tabora,Nontechnical
+216,19060390,17/07/2023,Dar es Salaam,Nontechnical
+217,19060392,17/07/2023,Mwanza,Nontechnical
+218,19060395,17/07/2023,Arusha,Nontechnical
+219,19060409,17/07/2023,Pwani,Nontechnical
+220,19060411,17/07/2023,Dar es Salaam,Nontechnical
+221,19060413,17/07/2023,Kagera,
+222,19060416,17/07/2023,Dodoma,Nontechnical
+223,19060418,17/07/2023,Tanga,Nontechnical
+224,19060420,17/07/2023,Tanga,Nontechnical
+225,19060422,17/07/2023,Mara,Nontechnical
+226,19060423,17/07/2023,Dar es Salaam,Nontechnical
+227,19060427,17/07/2023,Shinyanga,Nontechnical
+228,19060433,17/07/2023,Dodoma,Nontechnical
+229,19060438,17/07/2023,Tanga,
+230,19060439,17/07/2023,Dar es Salaam,Nontechnical
+231,19060440,17/07/2023,Kigoma,
+232,19060443,17/07/2023,Simiyu,Nontechnical
+233,19060450,17/07/2023,Kagera,Nontechnical
+234,19060454,17/07/2023,Dodoma,Nontechnical
+235,19060457,17/07/2023,Singida,Nontechnical
+236,19060465,17/07/2023,Dodoma,Nontechnical
+237,19060467,17/07/2023,Tanga,Nontechnical
+238,19060474,17/07/2023,Morogoro,Nontechnical
+239,19060475,17/07/2023,Tanga,Nontechnical
+240,19060477,17/07/2023,Tabora,Nontechnical
+241,19060478,17/07/2023,Arusha,Nontechnical
+242,19060481,17/07/2023,Singida,Nontechnical
+243,19060482,17/07/2023,Arusha,Nontechnical
+244,19060485,17/07/2023,Tabora,Nontechnical
+245,19060487,17/07/2023,Tabora,Nontechnical
+246,19060489,17/07/2023,Katavi,Nontechnical
+247,19060490,17/07/2023,Dar es Salaam,Nontechnical
+248,19060491,17/07/2023,Dar es Salaam,Nontechnical
+249,19060496,17/07/2023,Shinyanga,Nontechnical
+250,19060499,17/07/2023,Morogoro,Nontechnical
+251,19060501,17/07/2023,Shinyanga,
+252,19060505,17/07/2023,Dar es Salaam,
+253,19060506,17/07/2023,Kilimanjaro,Nontechnical
+254,19060508,17/07/2023,Iringa,Nontechnical
+255,19060509,17/07/2023,Tanga,Nontechnical
+256,19060512,17/07/2023,Kilimanjaro,Nontechnical
+257,19060518,17/07/2023,Dar es Salaam,
+258,19060519,17/07/2023,Shinyanga,
+259,19060534,17/07/2023,Mwanza,Technical
+260,19060535,17/07/2023,Mbeya,Nontechnical
+261,19060536,17/07/2023,Morogoro,
+262,19060542,17/07/2023,Mwanza,Nontechnical
+263,19060554,17/07/2023,Mwanza,Nontechnical
+264,19060557,17/07/2023,Mara,Nontechnical
+265,19060563,17/07/2023,Ruvuma,
+266,19060571,17/07/2023,Kagera,Nontechnical
+267,21050576,17/07/2023,Morogoro,Nontechnical
+268,21050582,17/07/2023,Morogoro,Nontechnical
+269,21050584,17/07/2023,Kagera,Nontechnical
+270,21050585,17/07/2023,Iringa,Nontechnical
+271,21050588,17/07/2023,Dar es Salaam,Nontechnical
+272,21050589,17/07/2023,Dar es Salaam,Nontechnical
+273,21050595,17/07/2023,Arusha,Nontechnical
+274,21050596,17/07/2023,Pwani,Nontechnical
+275,21050599,17/07/2023,Dar es Salaam,Nontechnical
+276,21050600,17/07/2023,Mtwara,Nontechnical
+277,21050601,17/07/2023,Mwanza,Nontechnical
+278,21050602,17/07/2023,Dar es Salaam,Technical
+279,21050606,17/07/2023,Kagera,Nontechnical
+280,21050607,17/07/2023,Tanga,Nontechnical
+281,21050611,17/07/2023,Morogoro,Nontechnical
+282,21050615,17/07/2023,Kagera,Nontechnical
+283,21050617,17/07/2023,Dodoma,Nontechnical
+284,21050619,17/07/2023,Morogoro,Nontechnical
+285,21050622,17/07/2023,Kagera,Nontechnical
+286,21050623,17/07/2023,Mwanza,Nontechnical
+287,21050624,17/07/2023,Tanga,Nontechnical
+288,21050627,17/07/2023,Kagera,Nontechnical
+289,21050632,17/07/2023,Dar es Salaam,Nontechnical
+290,21050636,17/07/2023,Dodoma,Nontechnical
+291,21050653,17/07/2023,Mtwara,Nontechnical
+292,21050654,17/07/2023,Kagera,
+293,21050659,17/07/2023,Dodoma,Nontechnical
+294,21050660,17/07/2023,Mwanza,Nontechnical
+295,21050665,17/07/2023,Rukwa,Nontechnical
+296,21050667,17/07/2023,Mbeya,Nontechnical
+297,21050670,17/07/2023,Kagera,Technical
+298,21050675,17/07/2023,Dar es Salaam,Nontechnical
+299,21050676,17/07/2023,Dar es Salaam,Nontechnical
+300,21050678,17/07/2023,Dar es Salaam,Nontechnical
+301,21050679,17/07/2023,Dar es Salaam,Nontechnical
+302,21050682,17/07/2023,Dar es Salaam,Nontechnical
+303,21050683,17/07/2023,Kagera,Technical
+304,21050684,17/07/2023,Songwe,Nontechnical
+305,21050686,17/07/2023,Mwanza,Nontechnical
+306,21050687,17/07/2023,Dar es Salaam,Nontechnical
+307,21050692,17/07/2023,Morogoro,Nontechnical
+308,21050693,17/07/2023,Mwanza,Nontechnical
+309,21050694,17/07/2023,Ruvuma,Nontechnical
+310,21050698,17/07/2023,Dodoma,Nontechnical
+311,21050703,17/07/2023,Songwe,Nontechnical
+312,21050705,17/07/2023,Dar es Salaam,Nontechnical
+313,21050710,17/07/2023,Morogoro,Nontechnical
+314,21050717,17/07/2023,Mwanza,Nontechnical
+315,21050719,17/07/2023,Dar es Salaam,Nontechnical
+316,21050732,17/07/2023,Morogoro,Nontechnical
+317,21050735,17/07/2023,Kagera,Nontechnical
+318,21050742,17/07/2023,Dodoma,Nontechnical
+319,21050746,17/07/2023,Kagera,Nontechnical
+320,21050747,17/07/2023,Lindi,Nontechnical
+321,21050751,17/07/2023,Simiyu,Nontechnical
+322,21050754,17/07/2023,Rukwa,Nontechnical
+323,21050755,17/07/2023,Ruvuma,Nontechnical
+324,21050756,17/07/2023,Kigoma,Nontechnical
+325,21050757,17/07/2023,Dar es Salaam,Nontechnical
+326,21050760,17/07/2023,Dodoma,Nontechnical
+327,21050762,17/07/2023,Arusha,Nontechnical
+328,21050765,17/07/2023,Mwanza,Nontechnical
+329,21050767,17/07/2023,Tanga,Nontechnical
+330,21050776,17/07/2023,Dar es Salaam,Nontechnical
+331,21050781,17/07/2023,Pwani,Nontechnical
+332,21050782,17/07/2023,Mwanza,Nontechnical
+333,21050783,17/07/2023,Pwani,Nontechnical
+334,21050787,17/07/2023,Dodoma,Nontechnical
+335,21050788,17/07/2023,Rukwa,Technical
+336,21050792,17/07/2023,Songwe,Nontechnical
+337,21050793,17/07/2023,Mwanza,Nontechnical
+338,21050807,17/07/2023,Morogoro,Nontechnical
+339,21050808,17/07/2023,Dar es Salaam,Nontechnical
+340,21050816,17/07/2023,Ruvuma,Nontechnical
+341,21050822,17/07/2023,Dodoma,Nontechnical
+342,21050823,17/07/2023,Mbeya,Nontechnical
+343,21050830,17/07/2023,Ruvuma,Nontechnical
+344,21050831,17/07/2023,Mara,Nontechnical
+345,21050832,17/07/2023,Singida,Nontechnical
+346,21050839,17/07/2023,Dar es Salaam,Nontechnical
+347,21050845,17/07/2023,Mbeya,Nontechnical
+348,21050847,17/07/2023,Tabora,Technical
+349,21050853,17/07/2023,Njombe,Nontechnical
+350,21050855,17/07/2023,Dodoma,Nontechnical
+351,21050856,17/07/2023,Lindi,Nontechnical
+352,21110863,17/07/2023,Dodoma,Nontechnical
+353,21110864,17/07/2023,Kagera,Nontechnical
+354,21110882,17/07/2023,Dar es Salaam,Nontechnical
+355,21110894,17/07/2023,Tanga,Nontechnical
+356,21110903,17/07/2023,Dodoma,Nontechnical
+357,21110904,17/07/2023,Kagera,Technical
+358,21110926,17/07/2023,Tabora,Nontechnical
+359,21110927,17/07/2023,Shinyanga,Nontechnical
+360,21110930,17/07/2023,Arusha,Nontechnical
+361,21110940,17/07/2023,Songwe,Nontechnical
+362,21110941,17/07/2023,Dar es Salaam,Nontechnical
+363,21110948,17/07/2023,Pwani,Nontechnical
+364,21110951,17/07/2023,Tabora,Nontechnical
+365,21110953,17/07/2023,Dar es Salaam,Nontechnical
+366,21110961,17/07/2023,Dodoma,Nontechnical
+367,21110963,17/07/2023,Dar es Salaam,Nontechnical
+368,21110968,17/07/2023,Kiambu,
+369,21110970,17/07/2023,Tanga,Nontechnical
+370,21110975,17/07/2023,Tanga,Nontechnical
+371,21110980,17/07/2023,Dodoma,Nontechnical
+372,21110983,17/07/2023,Dodoma,
+373,21110997,17/07/2023,Dar es Salaam,Technical
+374,21110999,17/07/2023,Nairobi,
+375,21111003,17/07/2023,Dar es Salaam,Nontechnical
+376,21111007,17/07/2023,Dar es Salaam,Nontechnical
+377,21111016,17/07/2023,Dar es Salaam,Nontechnical
+378,21111028,17/07/2023,Dar es Salaam,Nontechnical
+379,21111034,17/07/2023,Pwani,Nontechnical
+380,21111039,17/07/2023,Tanga,Nontechnical
+381,21111040,17/07/2023,Dar es Salaam,Nontechnical
+382,21111051,17/07/2023,Shinyanga,
+383,21111052,17/07/2023,Shinyanga,Nontechnical
+384,21111053,17/07/2023,Songwe,
+385,21111063,17/07/2023,Rukwa,Nontechnical
+386,21111067,17/07/2023,Shinyanga,Nontechnical
+387,21111069,17/07/2023,Ruvuma,Technical
+388,18040177,22/05/2023,Morogoro,Nontechnical
+389,18040271,22/05/2023,Dar es Salaam,Nontechnical
+390,18040283,22/05/2023,Dodoma,Nontechnical
+391,18040298,22/05/2023,Morogoro,Technical
+392,19060410,22/05/2023,Shinyanga,Technical
+393,19060569,22/05/2023,Dodoma,Nontechnical
+394,21050601,22/05/2023,Mwanza,Nontechnical
+395,21050734,22/05/2023,Dodoma,Nontechnical
+396,21050813,22/05/2023,Mtwara,Nontechnical
+397,21110867,22/05/2023,Dar es Salaam,Nontechnical
+398,21110874,22/05/2023,Mwanza,Nontechnical
+399,21110882,22/05/2023,Dar es Salaam,Nontechnical
+400,21110893,22/05/2023,Dodoma,Nontechnical
+401,21110903,22/05/2023,Dodoma,
+402,21110904,22/05/2023,Kagera,Technical
+403,21110910,22/05/2023,Shinyanga,Nontechnical
+404,21110963,22/05/2023,Dar es Salaam,Nontechnical
+405,21110977,22/05/2023,Songwe,Nontechnical
+406,21110979,22/05/2023,Morogoro,
+407,21111023,22/05/2023,Tabora,Nontechnical
+408,21111040,22/05/2023,Dar es Salaam,Nontechnical
+409,21111051,22/05/2023,Shinyanga,Nontechnical
+410,21111072,22/05/2023,Dar es Salaam,Nontechnical
+411,18040174,08/05/2023,Songwe,
+412,18040181,08/05/2023,Dar es Salaam,Nontechnical
+413,18040192,08/05/2023,Dar es Salaam,Technical
+414,18040193,08/05/2023,Mbeya,
+415,18040195,08/05/2023,Dar es Salaam,Technical
+416,18040197,08/05/2023,Songwe,
+417,18040201,08/05/2023,Mbeya,Nontechnical
+418,18040206,08/05/2023,Mbeya,
+419,18040210,08/05/2023,Dar es Salaam,Nontechnical
+420,18040213,08/05/2023,Dar es Salaam,
+421,18040214,08/05/2023,Songwe,Nontechnical
+422,18040221,08/05/2023,Dar es Salaam,Nontechnical
+423,18040226,08/05/2023,Mbeya,
+424,18040234,08/05/2023,Morogoro,Technical
+425,18040236,08/05/2023,Dar es Salaam,
+426,18040240,08/05/2023,Dar es Salaam,Nontechnical
+427,18040245,08/05/2023,Tanga,Nontechnical
+428,18040254,08/05/2023,Iringa,
+429,18040255,08/05/2023,Shinyanga,
+430,18040257,08/05/2023,Songwe,Nontechnical
+431,18040269,08/05/2023,Shinyanga,
+432,18040272,08/05/2023,Dar es Salaam,
+433,18040273,08/05/2023,Songwe,Nontechnical
+434,18040281,08/05/2023,Morogoro,
+435,18040282,08/05/2023,Dodoma,
+436,18040286,08/05/2023,Ruvuma,
+437,18040301,08/05/2023,Dar es Salaam,
+438,19060306,08/05/2023,Shinyanga,Technical
+439,19060307,08/05/2023,Kilimanjaro,Nontechnical
+440,19060309,08/05/2023,Shinyanga,Technical
+441,19060313,08/05/2023,Katavi,
+442,19060316,08/05/2023,Tanga,Nontechnical
+443,19060320,08/05/2023,Pwani,Technical
+444,19060322,08/05/2023,Dar es Salaam,Nontechnical
+445,19060327,08/05/2023,Mtwara,Nontechnical
+446,19060330,08/05/2023,Shinyanga,Nontechnical
+447,19060338,08/05/2023,Shinyanga,
+448,19060342,08/05/2023,Dar es Salaam,Nontechnical
+449,19060355,08/05/2023,Tabora,
+450,19060357,08/05/2023,Lindi,
+451,19060358,08/05/2023,Iringa,Nontechnical
+452,19060363,08/05/2023,Shinyanga,Nontechnical
+453,19060370,08/05/2023,Mwanza,Nontechnical
+454,19060378,08/05/2023,Tanga,Nontechnical
+455,19060385,08/05/2023,Shinyanga,Nontechnical
+456,19060387,08/05/2023,Katavi,
+457,19060390,08/05/2023,Dar es Salaam,Nontechnical
+458,19060392,08/05/2023,Mwanza,Nontechnical
+459,19060403,08/05/2023,Dodoma,Technical
+460,19060409,08/05/2023,Pwani,Nontechnical
+461,19060411,08/05/2023,Dar es Salaam,
+462,19060415,08/05/2023,Dar es Salaam,Technical
+463,19060416,08/05/2023,Dodoma,Nontechnical
+464,19060418,08/05/2023,Tanga,Nontechnical
+465,19060427,08/05/2023,Shinyanga,
+466,19060428,08/05/2023,Shinyanga,Nontechnical
+467,19060438,08/05/2023,Tanga,Nontechnical
+468,19060439,08/05/2023,Dar es Salaam,Technical
+469,19060440,08/05/2023,Kigoma,Nontechnical
+470,19060441,08/05/2023,Shinyanga,Nontechnical
+471,19060443,08/05/2023,Simiyu,Nontechnical
+472,19060450,08/05/2023,Kagera,Nontechnical
+473,19060465,08/05/2023,Dodoma,
+474,19060467,08/05/2023,Tanga,Nontechnical
+475,19060477,08/05/2023,Tabora,Nontechnical
+476,19060478,08/05/2023,Arusha,Nontechnical
+477,19060481,08/05/2023,Singida,Nontechnical
+478,19060482,08/05/2023,Arusha,Nontechnical
+479,19060489,08/05/2023,Katavi,Technical
+480,19060490,08/05/2023,Dar es Salaam,Technical
+481,19060496,08/05/2023,Shinyanga,Nontechnical
+482,19060499,08/05/2023,Morogoro,Nontechnical
+483,19060501,08/05/2023,Shinyanga,Technical
+484,19060509,08/05/2023,Tanga,Nontechnical
+485,19060518,08/05/2023,Dar es Salaam,
+486,19060528,08/05/2023,Kigoma,Nontechnical
+487,19060531,08/05/2023,Kigoma,Nontechnical
+488,19060534,08/05/2023,Mwanza,Nontechnical
+489,19060543,08/05/2023,Rukwa,
+490,19060549,08/05/2023,Tabora,
+491,19060551,08/05/2023,Mwanza,Technical
+492,19060554,08/05/2023,Mwanza,Technical
+493,19060560,08/05/2023,Kigoma,
+494,19060562,08/05/2023,Rukwa,Nontechnical
+495,21050576,08/05/2023,Morogoro,Nontechnical
+496,21050580,08/05/2023,Morogoro,
+497,21050581,08/05/2023,Mwanza,Nontechnical
+498,21050582,08/05/2023,Morogoro,Technical
+499,21050584,08/05/2023,Kagera,Nontechnical
