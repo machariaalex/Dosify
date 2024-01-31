@@ -92,21 +92,6 @@ probabilities = selected_model.predict_proba(test_data.drop(['CATEGORY'], axis=1
 dosifier_predictions = pd.DataFrame(probabilities, columns=selected_model.classes_, index=test_data.index)
 dosifier_predictions_final = dosifier_predictions.groupby(level=0).mean()
 st.header("Test Data Predictions and Probabilities")
-
-# Use CSS to set the height and width
-st.markdown(
-    f"""
-    <style>
-        .dataframe {{
-            height: 800px !important;
-            width: 1200px !important;
-        }}
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
-
-# Display the dataframe
-st.dataframe(dosifier_predictions_final.style.set_table_styles([{'selector': 'th', 'props': [('max-width', '100px')]}]).set_precision(2))
+st.write(dosifier_predictions_final)
 
 
