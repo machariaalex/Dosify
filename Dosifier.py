@@ -93,6 +93,20 @@ dosifier_predictions = pd.DataFrame(probabilities, columns=selected_model.classe
 dosifier_predictions_final = dosifier_predictions.groupby(level=0).mean()
 st.header("Test Data Predictions and Probabilities")
 
-# Set the height and width of the dataframe box
-st.dataframe(dosifier_predictions_final.style.set_table_styles([{'selector': 'th', 'props': [('max-width', '100px')]}]).set_precision(2), height=800, width=1200)
+# Use CSS to set the height and width
+st.markdown(
+    f"""
+    <style>
+        .dataframe {{
+            height: 800px !important;
+            width: 1200px !important;
+        }}
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
+# Display the dataframe
+st.dataframe(dosifier_predictions_final.style.set_table_styles([{'selector': 'th', 'props': [('max-width', '100px')]}]).set_precision(2))
+
 
