@@ -85,10 +85,14 @@ for model in models:
     st.write(f"Accuracy of {model.__class__.__name__}: {accuracy.mean()}")
 
 
+
 # Display predictions and probabilities
 predictions = selected_model.predict(test_data.drop(['CATEGORY'], axis=1))
 probabilities = selected_model.predict_proba(test_data.drop(['CATEGORY'], axis=1))
 dosifier_predictions = pd.DataFrame(probabilities, columns=selected_model.classes_, index=test_data.index)
 dosifier_predictions_final = dosifier_predictions.groupby(level=0).mean()
 st.header("Test Data Predictions and Probabilities")
-st.write(dosifier_predictions_final)
+
+# Set the height and width of the dataframe box
+st.dataframe(dosifier_predictions_final.style.set_table_styles([{'selector': 'th', 'props': [('max-width', '100px')]}]).set_precision(2), height=800, width=1200)
+
