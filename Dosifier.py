@@ -5,8 +5,8 @@ from sklearn.model_selection import cross_val_score
 
 # Assuming you have the balanced_train and test_data available
 # If not, make sure to load your datasets appropriately
-balanced_train = pd.read_csv('reduced_balanced_train.csv')
-test_data = pd.read_csv('reduced_test_data.csv')
+balanced_train = pd.read_csv('balanc.csv').set_index('SN')
+test_data = pd.read_csv('test.csv').set_index('SN')
 
 query_columns = pd.read_csv('buttons.csv')
 
