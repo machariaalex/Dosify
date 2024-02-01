@@ -12,6 +12,18 @@ query_columns = pd.read_csv('buttons.csv')
 
 st.image('sanku_logo.png', width=200)
 
+# Add description
+st.markdown("""
+            
+
+            
+# Dosifier Prototype Model (V1)
+
+This is the first version (V1) of the prototype model, intended for full deployment into production. The model classifies Dosifier Offline Technical and non-technical issues based on the input features as displayed below.
+
+**Note:** The test and train data span from January 2022 to January 2024.
+""")
+
 # Create a list of models to fit
 models = [BaggingClassifier(),  GradientBoostingClassifier(), RandomForestClassifier()]
 
@@ -19,8 +31,7 @@ models = [BaggingClassifier(),  GradientBoostingClassifier(), RandomForestClassi
 for model in models:
     model.fit(balanced_train.drop(['CATEGORY'], axis=1), balanced_train['CATEGORY'])
 
-# Streamlit App
-st.title("Dosifier Project Deployment")
+
 
 # Dropdowns for query columns
 st.sidebar.header('Select Columns')
@@ -29,7 +40,7 @@ selected_sn = st.sidebar.selectbox("Select Serial Number", query_columns['SN'].u
 selected_region = st.sidebar.selectbox("Select REGION", query_columns['REGION'].unique())
 
 # User input for general features
-st.sidebar.header('Input Features')
+st.sidebar.header('**Input Features**')
 user_input_general = {}
 for feature in balanced_train.drop(['CATEGORY'], axis=1).columns:
     user_input_general[feature] = st.sidebar.slider(f'Select {feature}', float(balanced_train[feature].min()), float(balanced_train[feature].max()))
@@ -57,7 +68,7 @@ user_input_df_general = pd.DataFrame([user_input_general])
 
 
 # Display user input
-st.write("User Input for Query Columns:")
+st.write("**User Input for Query Columns:**")
 st.write(f"Selected Date: {selected_date_added}")
 st.write(f"Selected Serial Number: {selected_sn}")
 st.write(f"Selected REGION: {selected_region}")
